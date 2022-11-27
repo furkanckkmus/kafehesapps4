@@ -1,1 +1,1 @@
-web: gunicorn aa:app
+console: bundle
